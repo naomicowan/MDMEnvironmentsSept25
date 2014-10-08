@@ -1,7 +1,7 @@
 .intro-message {
 	text-align: center;
-	padding-top: 20%;
-	padding-bottom: 10%;
+	padding-top: 10%;
+	padding-bottom: 08%;
 	color: #fff;
 }
 body{
@@ -16,8 +16,17 @@ body{
 	text-align: center;
 	color: #fff;
 }
+
+.list-group {
+	text-align: center;
+	padding-top: 05%;
+	padding-bottom: 02%;
+	color: #fff;
+}
+
 .closing {
 	text-align: center;
-	padding-top: 20%;
-	padding-bottom: 10%;
+	padding-top: 02%;
+	padding-bottom: 05%;
 	color: #fff;
+}
