@@ -16,6 +16,9 @@ body{
 	text-align: center;
 	color: #fff;
 }
+.button {
+	color:#333;
+}
 
 .list-group {
 	text-align: center;
